@@ -1,4 +1,4 @@
-#Projeto Literalura
+# Projeto Literalura
 Esse foi o segundo desafio do curso de Backend em java da Alura em parceria com a Oracle. 
 
 O objetivo foi utilizar a API Gutendex (https://gutendex.com/) para criar uma biblioteca de livros integrada a um banco de dados (POSTGRESQL). 
